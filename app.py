@@ -17,8 +17,7 @@ st.markdown("""
 <style>
 .fixed-header {
     position: fixed;
-    top: 2
-            %;
+    top: 2%;
     left: 0;
     width: 100%;
     background-color: #0e1117;
