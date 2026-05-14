@@ -33,6 +33,10 @@ Whether you're exploring conversational AI or building a quick prototype, BuddyB
 
 ---
 
+### Deployment Link
+
+Deployed in Hugging Face Spaces: https://kabir010804-buddybot.hf.space/?utm_source=chatgpt.com
+
 ## 📦 Installation
 
 ### 1. Clone the repository
